@@ -4,6 +4,8 @@ Shows the basic pipeline for perfoming 3D region mapping for time sequenced fMRI
 Basic pipeline for integrating nilearn region mapping with 3D-fMRI rendering: 
 [Here](https://colab.research.google.com/github/KappnKrunch/3D-fMRI-region-mapping/blob/main/3D_region_mapping_with_nilearn.ipynb "interactive link")
 
+![Gif showing the renderer](3D_region_mapping.gif "MRI view")
+
 Defining a general function that can display any nfiti file:
 [Here](https://colab.research.google.com/github/KappnKrunch/3D-fMRI-region-mapping/blob/main/General_3D_region_mapping_with_nilearn.ipynb "interactive link")
 
